@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ffc4c67-c8cd-4a3f-85c2-7b7d3bba566e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/items.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/items.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/items.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
